@@ -1,5 +1,5 @@
 /**
- * Ej03Hipotenusa
+ * Ej03Hipotenusa: Dados los catetos de un triángulo rectángulo, calcular su hipotenusa.
  */
 import java.util.Scanner;
 

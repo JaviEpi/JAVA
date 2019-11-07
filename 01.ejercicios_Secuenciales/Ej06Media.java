@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Ej06Media
+ * Ej06Media: Calcular la media de tres números pedidos por teclado.
  */
 public class Ej06Media {
 

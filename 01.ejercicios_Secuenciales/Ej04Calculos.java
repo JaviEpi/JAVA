@@ -1,5 +1,5 @@
 /**
- * Ej04Calculos
+ * Ej04Calculos: Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.
  */
 import java.util.Scanner;
 

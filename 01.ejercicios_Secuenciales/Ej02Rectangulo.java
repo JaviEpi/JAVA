@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * Ej02Rectangulo: Calcular el perí­metro y área de un rectángulo dada su base y su altura.
+ */
+
 public class Ej02Rectangulo{
 public static void main(String args[]) {
     Scanner s = new Scanner(System.in);

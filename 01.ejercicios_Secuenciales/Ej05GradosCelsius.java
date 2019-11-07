@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Ej05GradosCelsius
+ * Ej05GradosCelsius: Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius.
  */
 public class Ej05GradosCelsius {
 
