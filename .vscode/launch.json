@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej19NotaExamen",
+            "request": "launch",
+            "mainClass": "Ej19NotaExamen",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej18Iniciales",
             "request": "launch",
             "mainClass": "Ej18Iniciales",
