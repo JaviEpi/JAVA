@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeeNumeros",
+            "request": "launch",
+            "mainClass": "LeeNumeros",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej06Media",
+            "request": "launch",
+            "mainClass": "Ej06Media",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej05GradosCelsius",
+            "request": "launch",
+            "mainClass": "Ej05GradosCelsius",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej04Calculos",
+            "request": "launch",
+            "mainClass": "Ej04Calculos",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej03Hipotenusa",
+            "request": "launch",
+            "mainClass": "Ej03Hipotenusa",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej01NombreSaludo",
+            "request": "launch",
+            "mainClass": "Ej01NombreSaludo",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hola",
+            "request": "launch",
+            "mainClass": "Hola"
+        }
+    ]
+}
