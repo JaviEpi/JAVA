@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej07Horas",
+            "request": "launch",
+            "mainClass": "Ej07Horas",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LeeNumeros",
             "request": "launch",
             "mainClass": "LeeNumeros",
