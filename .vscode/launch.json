@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej14NumInvertido",
+            "request": "launch",
+            "mainClass": "Ej14NumInvertido",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej13Raices",
             "request": "launch",
             "mainClass": "Ej13Raices",
