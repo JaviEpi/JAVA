@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej18Iniciales",
+            "request": "launch",
+            "mainClass": "Ej18Iniciales",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej16Adelantamiento",
             "request": "launch",
             "mainClass": "Ej16Adelantamiento",
