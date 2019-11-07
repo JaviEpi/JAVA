@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej20CalcularDinero",
+            "request": "launch",
+            "mainClass": "Ej20CalcularDinero",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej19NotaExamen",
             "request": "launch",
             "mainClass": "Ej19NotaExamen",
