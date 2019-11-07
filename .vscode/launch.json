@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej16Adelantamiento",
+            "request": "launch",
+            "mainClass": "Ej16Adelantamiento",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej15IntercambioVariables",
+            "request": "launch",
+            "mainClass": "Ej15IntercambioVariables",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej14NumInvertido",
             "request": "launch",
             "mainClass": "Ej14NumInvertido",
