@@ -20,6 +20,7 @@ public static void main(String args[]){
     System.out.println("Y el segundo número es "+numero_2);
     System.out.println("El doble del primer número mas el segundo es ");
     System.out.println(total);
+    s.close();
 }
 
 }

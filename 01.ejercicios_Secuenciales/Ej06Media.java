@@ -22,5 +22,6 @@ public static void main(String[] args) {
     media = (numero_1+numero_2+numero_3)/3;
     System.out.println("La media de los tres números es "+media);
 
+    s.close();
 }
 }

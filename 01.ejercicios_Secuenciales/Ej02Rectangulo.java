@@ -15,6 +15,7 @@ public static void main(String args[]) {
     area = base*altura;
 
     System.out.println("El perí­metro es "+perimetro+" y el área es "+area);
+    s.close();
     
 }
     

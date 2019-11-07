@@ -11,6 +11,7 @@ public static void main(String args[]) {
     nombre = s.nextLine();
     System.out.println("Hola "+nombre);
     
+    s.close();
 }
     
 }

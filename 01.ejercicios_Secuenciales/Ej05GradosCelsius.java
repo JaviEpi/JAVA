@@ -15,6 +15,6 @@ public static void main(String[] args) {
     celsius = (fahrenheit-32)*5/9;
     System.out.println("La temperatura es "+celsius+"ºC");
     
-    
+    s.close();
 }
 }

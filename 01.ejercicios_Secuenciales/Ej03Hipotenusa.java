@@ -17,6 +17,8 @@ public static void main(String args[]) {
     
     hipotenusa = Math.sqrt(Math.pow(cateto_1,2)+Math.pow(cateto_2,2));
     System.out.println("La hipotenusa es "+hipotenusa);
+
+    s.close();
 }
     
 }

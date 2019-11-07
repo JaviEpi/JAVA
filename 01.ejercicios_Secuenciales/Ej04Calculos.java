@@ -19,6 +19,8 @@ public static void main(String args[]) {
     System.out.println("La resta es "+(numero_1-numero_2));
     System.out.println("La multiplicación es "+(numero_1*numero_2));
     System.out.println("La división es "+(numero_1/numero_2)); 
+
+    s.close();
 }
  
 }
