@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej13Raices",
+            "request": "launch",
+            "mainClass": "Ej13Raices",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej12DistanciaPuntos",
+            "request": "launch",
+            "mainClass": "Ej12DistanciaPuntos",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej11Distancia",
             "request": "launch",
             "mainClass": "Ej11Distancia",

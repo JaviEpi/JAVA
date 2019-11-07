@@ -9,12 +9,12 @@ public static void main(String[] args) {
     int numero_1;
     int numero_2;
 
-    System.out.print("Valor del primer punto: ");
+    System.out.print("Valor del primer número: ");
     numero_1 = s.nextInt();
-    System.out.print("Valor del segundo punto: ");
+    System.out.print("Valor del segundo número: ");
     numero_2 = s.nextInt();
     
-    System.out.println("La distancia entre los punto es: " +Math.abs(numero_1-numero_2));
+    System.out.println("La distancia es: " +Math.abs(numero_1-numero_2));
     
     s.close();
 }
