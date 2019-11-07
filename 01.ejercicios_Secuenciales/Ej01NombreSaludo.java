@@ -1,5 +1,5 @@
 /**
- * 01NombreSaludo
+ * 01NombreSaludo: Escribir un programa que pregunte al usuario su nombre, y luego lo salude.
  */
 import java.util.Scanner;
 
