@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej09CalcularPrecio",
+            "request": "launch",
+            "mainClass": "Ej09CalcularPrecio",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej08Sueldo",
             "request": "launch",
             "mainClass": "Ej08Sueldo",
