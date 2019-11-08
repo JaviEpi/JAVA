@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej04DivisionCero",
+            "request": "launch",
+            "mainClass": "Ej04DivisionCero",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej03ParImpar",
             "request": "launch",
             "mainClass": "Ej03ParImpar",
