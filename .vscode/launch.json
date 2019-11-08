@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej07Potencia",
+            "request": "launch",
+            "mainClass": "Ej07Potencia",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej06CadenaMayuscula",
+            "request": "launch",
+            "mainClass": "Ej06CadenaMayuscula",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej04DivisionCero",
             "request": "launch",
             "mainClass": "Ej04DivisionCero",
