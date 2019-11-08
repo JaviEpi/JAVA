@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej03ParImpar",
+            "request": "launch",
+            "mainClass": "Ej03ParImpar",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej01MayorMenor",
             "request": "launch",
             "mainClass": "Ej01MayorMenor",
