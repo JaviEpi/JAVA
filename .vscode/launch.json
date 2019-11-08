@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej10Circunferencias",
+            "request": "launch",
+            "mainClass": "Ej10Circunferencias",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej07Potencia",
             "request": "launch",
             "mainClass": "Ej07Potencia",
