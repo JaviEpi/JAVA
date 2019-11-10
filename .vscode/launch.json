@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej16Telefono",
+            "request": "launch",
+            "mainClass": "Ej16Telefono",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej14Uvas",
             "request": "launch",
             "mainClass": "Ej14Uvas",
