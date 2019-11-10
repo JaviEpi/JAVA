@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej14Uvas",
+            "request": "launch",
+            "mainClass": "Ej14Uvas",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej12AñoBisiesto",
+            "request": "launch",
+            "mainClass": "Ej12AñoBisiesto",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej10Circunferencias",
             "request": "launch",
             "mainClass": "Ej10Circunferencias",
