@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej19DiaMes",
+            "request": "launch",
+            "mainClass": "Ej19DiaMes",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej18DiaSemana",
+            "request": "launch",
+            "mainClass": "Ej18DiaSemana",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej16Telefono",
             "request": "launch",
             "mainClass": "Ej16Telefono",
