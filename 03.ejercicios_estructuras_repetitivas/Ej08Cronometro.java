@@ -1,4 +1,4 @@
-import java.util.concurrent.TimeUnit;
+//import java.util.concurrent.TimeUnit;
  
 
 /**
@@ -20,7 +20,7 @@ public static void main(String[] args) {
         
         for (segundo=0; segundo<=59; segundo++) {
           System.out.print(borraAnterior+hora+":"+minuto+":"+segundo);
-          TimeUnit.SECONDS.sleep(1);
+          //TimeUnit.SECONDS.sleep(1);
         }
 
       }
