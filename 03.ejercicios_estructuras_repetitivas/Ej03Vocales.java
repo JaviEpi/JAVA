@@ -25,8 +25,9 @@ public static void main(String args[]) {
         caracter = s.nextLine();
     } while (caracter.length()!=1);
     }
-    
+    }
+
+
     s.close();
 }
-
 }
