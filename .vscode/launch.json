@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej03Vocales",
+            "request": "launch",
+            "mainClass": "Ej03Vocales",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ej02ContarNumeros",
+            "request": "launch",
+            "mainClass": "Ej02ContarNumeros",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej01AdivinarNumero",
             "request": "launch",
             "mainClass": "Ej01AdivinarNumero",
