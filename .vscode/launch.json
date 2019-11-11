@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej04NumeroPares",
+            "request": "launch",
+            "mainClass": "Ej04NumeroPares",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej03Vocales",
             "request": "launch",
             "mainClass": "Ej03Vocales",
