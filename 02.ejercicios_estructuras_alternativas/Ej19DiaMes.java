@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Ej19DiaMes
+ * Ej19DiaMes: Escribe un programa que pida un número entero entre uno y doce e imprima el número de días que tiene el mes correspondiente.
  */
 public class Ej19DiaMes {
 
