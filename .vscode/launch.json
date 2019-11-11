@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej01AdivinarNumero",
+            "request": "launch",
+            "mainClass": "Ej01AdivinarNumero",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej19DiaMes",
             "request": "launch",
             "mainClass": "Ej19DiaMes",
