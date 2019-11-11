@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ej09NumerosPrimos",
+            "request": "launch",
+            "mainClass": "Ej09NumerosPrimos",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej08Cronometro",
             "request": "launch",
             "mainClass": "Ej08Cronometro",

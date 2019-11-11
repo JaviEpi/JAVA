@@ -15,11 +15,10 @@ public static void main(String[] args) {
 
     // horas
     for (hora=0; hora<=23; hora++) {
-      // minutos
+      
       for (minuto=0; minuto<=59; minuto++) {
-        // segundos
-        for (segundo=0; segundo<=59; segundo++) {
         
+        for (segundo=0; segundo<=59; segundo++) {
           System.out.print(borraAnterior+hora+":"+minuto+":"+segundo);
           TimeUnit.SECONDS.sleep(1);
         }
