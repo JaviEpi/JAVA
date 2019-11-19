@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - varianza1",
+            "request": "launch",
+            "mainClass": "varianza1",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - varianza",
+            "request": "launch",
+            "mainClass": "varianza",
+            "projectName": "JAVA_e238f624"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ej09NumerosPrimos",
             "request": "launch",
             "mainClass": "Ej09NumerosPrimos",
